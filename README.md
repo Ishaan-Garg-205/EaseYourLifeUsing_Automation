@@ -14,7 +14,7 @@ Use automation.js file
 **I have made a project which is based on Automation using puppeteer.** 
 
                   10 Major Functionalities
-**1. Send list of Train Details to the email address.                                     Site Used : railyatri.in
+**1. Send list of Train Details to the email address.                                     Site Used : railyatri.in**<br />
 **2. Send the Current Status of Particular Train to the email address.                    Site Used : railyatri.in
 **3. Send list of Flight Details to the email address.                                    Site Used : makemytrip.com**
 **4. Send list of Bus Details to the email address.                                       Site Used : railyatri.in**
