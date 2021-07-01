@@ -1,4 +1,4 @@
-# EaseYourLifeUsing_Automation
+# EaseYourTrip_n_Life_Using_Automation
 **Install Puppeteer**<br />
 Command ---> npm i puppeteer
 <br />
