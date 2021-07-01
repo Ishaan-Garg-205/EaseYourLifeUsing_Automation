@@ -1,5 +1,5 @@
 # EaseYourLifeUsing_Automation
-# Install Puppeteer                                   // Command ---> npm i puppeteer
+**Install Puppeteer**                                   // Command ---> npm i puppeteer
 
 **Video Link:**
 https://drive.google.com/drive/folders/1mp0ZiKChcsR-j81kjL1WvF4yb_VntMw-?usp=sharing
@@ -11,21 +11,21 @@ Must go through ReadMe File once. This file looks big but it's very easy and wil
 **Code:**
 Use automation.js file
 
-# I have made a project which is based on Automation using puppeteer. 
+**I have made a project which is based on Automation using puppeteer.** 
 
                   10 Major Functionalities
-# 1. Send list of Train Details to the email address.                                     Site Used : railyatri.in
-# 2. Send the Current Status of Particular Train to the email address.                    Site Used : railyatri.in
-# 3. Send list of Flight Details to the email address.                                    Site Used : makemytrip.com
-# 4. Send list of Bus Details to the email address.                                       Site Used : railyatri.in
-# 5. Send list of Hotel Details to the email address.                                     Site Used : yatra.com
-# 6. Send Weather Forecast of the next 14 days to the email address.                      Site Used : weather.com
-# 7. Send list of Top 50 Songs to the email address.                                      Site Used : gaana.com
-# 8. Send the list of Most popular News of last 24 Hours to the email address.            Site Used : timesofindia.com
-# 9. Send list of Best TV Shows whose rating is above 9 to the email address.             Site Used : imdb.com
-# 10.Send list of Best Movies whose rating is above 8.8 to the email address.             Site Used : imdb.com
+**1. Send list of Train Details to the email address.                                     Site Used : railyatri.in**
+**2. Send the Current Status of Particular Train to the email address.                    Site Used : railyatri.in**
+**3. Send list of Flight Details to the email address.                                    Site Used : makemytrip.com**
+**4. Send list of Bus Details to the email address.                                       Site Used : railyatri.in**
+**5. Send list of Hotel Details to the email address.                                     Site Used : yatra.com**
+**6. Send Weather Forecast of the next 14 days to the email address.                      Site Used : weather.com**
+**7. Send list of Top 50 Songs to the email address.                                      Site Used : gaana.com**
+**8. Send the list of Most popular News of last 24 Hours to the email address.            Site Used : timesofindia.com**
+**9. Send list of Best TV Shows whose rating is above 9 to the email address.             Site Used : imdb.com**
+**10.Send list of Best Movies whose rating is above 8.8 to the email address.             Site Used : imdb.com**
 
-# Stores all the sent data locally also.
+***Stores all the sent data locally also.
 
 
 
