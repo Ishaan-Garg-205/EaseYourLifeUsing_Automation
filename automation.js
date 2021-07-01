@@ -1,7 +1,7 @@
 const pup = require('puppeteer');
 const fs = require('fs');
-const id1 = "ishaangarg452@gmail.com";
-const password1 = "ishuisagoodboy21";
+const id1 = "";                             // Use Email id on which you want to send the mail
+const password1 = "";                       // Enter Password of that Email Id
 let data = [];
 
 main();
